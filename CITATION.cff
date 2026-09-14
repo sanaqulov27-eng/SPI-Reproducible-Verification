@@ -3,6 +3,7 @@ message: "If you use this software or data package, please cite it as below."
 title: "World Bank SPI v4.0 — Reproducible Verification Framework"
 version: 1.0.0
 date-released: 2026-09-14
+doi: 10.5281/zenodo.22749317
 authors:
   - family-names: "Sanakulov"
     given-names: "Otaniyoz"
