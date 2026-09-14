@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software or data package, please cite it as below."
 title: "World Bank SPI v4.0 — Reproducible Verification Framework"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-09-14
-doi: 10.5281/zenodo.22749317
+doi: 10.5281/zenodo.22749316
 authors:
   - family-names: "Sanakulov"
     given-names: "Otaniyoz"
