@@ -1,0 +1,36 @@
+﻿Section,Check,Status,Observed,Expected,Detail
+1. Sources,Pinned files downloaded successfully,PASS,5,5,All files were downloaded via the commit SHA; master was not used.
+2. Schema,SPI_index core columns present,PASS,[],[],
+2. Schema,Pinned v4.0 data’s latest year is 2024,PASS,2024.0,2024,
+2. Schema,No iso3c+date duplicates in SPI_index,PASS,0.0,0,
+2. Schema,UZB rows present for 2023 and 2024,PASS,2.0,2,
+3. Foreword,Overall SPI decreased in 2024 relative to 2023,PASS,-0.5012499999999989,< 0,
+3. Foreword,P1 unchanged,PASS,0.0,0,
+3. Foreword,P2 increased,PASS,2.5,> 0,
+3. Foreword,P3 decreased,PASS,-4.931249999999977,< 0,
+3. Foreword,P4 increased,PASS,4.925000000000004,> 0,
+3. Foreword,P5 decreased,PASS,-5.0,< 0,
+4.2 P2,The 95-96 point SDDS result is only a conditional sensitivity calculation,WARN,95.8,not an official forecast,World Bank GitHub does not guarantee a future score.
+4.5 P5,The CPIBY 1.0→0.5 change is present in P5’s mathematical decline,PASS,1.0 → 0.5,1.0 → 0.5,
+4.5 P5,Why CPIBY is 0.5 cannot be proven from SPI GitHub alone,WARN,score change confirmed,cause requires IMF/NSC metadata,The report should present the cause as a [Hypothesis] or support it with an additional source.
+4.6 International,Number of economies with a 2024 overall SPI value,PASS,188.0,188,Verifies the report’s claim of 188 economies.
+6. Formula,Overall SPI = simple arithmetic mean of P1–P5,PASS,1.4210854715202004e-14,0.0,
+6. Formula,Sum of pillar contributions equals the change in overall SPI,PASS,-0.5012499999999945,-0.5012499999999989,
+7. LOCF,UZB 2023/2024 LOCF results match SPI_index,PASS,[],[],
+9. Fixed weights,P4 administrative schema matches expected pinned v4.0,PASS,['SPI.D4.2.3.CRVS'],['SPI.D4.2.3.CRVS'],
+9. Fixed weights,P1 recomputation matches the World Bank result,PASS,0.0,0.0,
+9. Fixed weights,P2 recomputation matches the World Bank result,PASS,0.0,0.0,
+9. Fixed weights,P3 recomputation matches the World Bank result,PASS,0.0,0.0,
+9. Fixed weights,P4 recomputation matches the World Bank result,PASS,0.0,0.0,
+9. Fixed weights,P5 recomputation matches the World Bank result,PASS,0.0,0.0,
+9. Fixed weights,Full recomputation of overall SPI matches the World Bank result,PASS,0.0,0.0,
+10. R code,P5 dim_5_1 weight = 0,PASS,1,>=1,pattern: dim_5_1 <- 0
+10. R code,P5 dim_5_2 weight = 1,PASS,1,>=1,pattern: dim_5_2 <- 1
+10. R code,P5 dim_5_5 weight = 0,PASS,1,>=1,pattern: dim_5_5 <- 0
+10. R code,LOCF applied,PASS,5,>=1,pattern: na.locf
+10. R code,P4 dimension 4.2 rowMeans,PASS,1,>=1,pattern: SPI.DIM4.2.INDEX=rowMeans
+10. R code,P4 fixed formula,PASS,1,>=1,pattern: SPI.INDEX.PIL4=(
+10. R code,P5 fixed formula,PASS,1,>=1,pattern: SPI.INDEX.PIL5=(
+10. R code,Overall fixed formula,PASS,1,>=1,pattern: SPI.INDEX=(pillar_1
+11. Scope,2026 population and agricultural census facts,WARN,The SPI census score as of the 2024 assessment period.,"2026 dates, population counts, budget, and results — official national sources/UNFPA and others.",
+11. Scope,"Budget, timeline, and future ranking forecasts",WARN,Current SPI scores and arithmetic sensitivity calculations.,"Future ranking, cost, and timelines — require a separate scenario/model, budget estimate, and institutional confirmation.",

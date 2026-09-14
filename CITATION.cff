@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or data package, please cite it as below."
+title: "World Bank SPI v4.0 — Reproducible Verification Framework"
+version: 1.0.0
+date-released: 2026-09-14
+authors:
+  - family-names: "Sanakulov"
+    given-names: "Otaniyoz"
+    name-particle: "Erjigit ugli"
+    orcid: "https://orcid.org/0009-0005-2274-112X"
+    email: "sanaqulov27@gmail.com"
+    affiliation: "National Statistics Committee of the Republic of Uzbekistan"
+repository-code: "https://github.com/sanaqulov27-eng/SPI-Reproducible-Verification"
+license: MIT
+keywords:
+  - official statistics
+  - Statistical Performance Indicators
+  - World Bank
+  - reproducibility
+  - data validation
+  - Uzbekistan
+  - composite indicators
+abstract: >
+  A fully reproducible verification framework for the World Bank Statistical
+  Performance Indicators (SPI): an independent reconstruction of the full v4.0
+  panel (1,613 country-year records, 188 economies, 2016-2024), a full-panel
+  replication of the official missing-data (LOCF) rule, and a fully audited
+  country-level implementation for Uzbekistan comprising 251 individually
+  checked numerical claims. All figures are pinned to World Bank SPI release
+  v4.0 (commit 2dd02f746cb4e2159281adc74d6865f948e90ce1).
