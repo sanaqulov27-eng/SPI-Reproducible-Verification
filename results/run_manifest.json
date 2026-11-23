@@ -1,0 +1,8 @@
+{
+ "run_utc": "2026-11-23T09:18:10.421775+00:00",
+ "python": "3.13.18",
+ "mode": "offline",
+ "pinned_commit": "2dd02f746cb4e2159281adc74d6865f948e90ce1",
+ "all_input_hashes_verified": true,
+ "n_inputs": 15
+}

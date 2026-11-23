@@ -1,0 +1,74 @@
+stage,field,n_cells,n_nonmissing,n_match,n_mismatch,n_na_mismatch,max_abs_diff
+1 indicator (after geospatial rule + LOCF),SPI.D1.5.POV,4557,4557,4557,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D1.5.CHLD.MORT,4557,4557,4557,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D1.5.DT.TDS.DPPF.XP.ZS,4557,4557,4557,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D1.5.SAFE.MAN.WATER,4557,4557,4557,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D1.5.LFP,4557,4557,4557,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D2.1.GDDS,4557,2378,2378,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D2.2.Machine.readable,4557,1800,1800,0,0,1.1102230246251565e-16
+1 indicator (after geospatial rule + LOCF),SPI.D2.2.Non.proprietary,4557,1800,1800,0,0,1.1102230246251565e-16
+1 indicator (after geospatial rule + LOCF),SPI.D2.2.Download.options,4557,1800,1800,0,0,1.1102230246251565e-16
+1 indicator (after geospatial rule + LOCF),SPI.D2.2.Metadata.available,4557,1800,1800,0,0,1.1102230246251565e-16
+1 indicator (after geospatial rule + LOCF),SPI.D2.2.Terms.of.use,4557,1800,1800,0,0,1.1102230246251565e-16
+1 indicator (after geospatial rule + LOCF),SPI.D2.2.Openness.subscore,4557,1800,1800,0,0,1.1102230246251565e-16
+1 indicator (after geospatial rule + LOCF),SPI.D2.4.NADA,4557,1716,1716,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.1.POV,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.2.HNGR,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.3.HLTH,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.4.EDUC,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.5.GEND,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.6.WTRS,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.7.ENRG,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.8.WORK,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.9.INDY,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.10.NEQL,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.11.CITY,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.12.CNSP,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.15.LAND,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.16.INST,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.17.PTNS,4557,4515,4515,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.13.CLMT,4557,4300,4300,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D3.NA,4557,645,645,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D4.1.1.POPU,4557,3990,3990,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D4.1.2.AGRI,4557,3990,3990,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D4.1.3.BIZZ,4557,3990,3990,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D4.1.4.HOUS,4557,3990,3990,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D4.1.5.AGSVY,4557,3990,3990,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D4.1.6.LABR,4557,4116,4116,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D4.1.7.HLTH,4557,4053,4053,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D4.1.8.BZSVY,4557,4011,4011,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D4.2.3.CRVS,4557,4557,4557,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D4.3.GEO.first.admin.level,4557,1800,1800,0,0,1.1102230246251565e-16
+1 indicator (after geospatial rule + LOCF),SPI.D5.1.DILG,4557,1563,1563,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.2.1.SNAU,4557,1946,1946,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.2.2.NABY,4557,1946,1946,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.2.3.CNIN,4557,2147,2147,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.2.4.CPIBY,4557,1924,1924,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.2.5.HOUS,4557,2155,2155,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.2.6.EMPL,4557,2147,2147,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.2.7.CGOV,4557,1724,1724,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.2.8.FINA,4557,2147,2147,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.2.9.MONY,4557,1725,1725,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.2.10.GSBP,4557,2147,2147,0,0,0.0
+1 indicator (after geospatial rule + LOCF),SPI.D5.5.DIFI,4557,1481,1481,0,0,0.0
+2 dimension,SPI.DIM1.5.INDEX,4557,4557,4557,0,0,5.551115123125783e-17
+2 dimension,SPI.DIM2.1.INDEX,4557,2378,2378,0,0,0.0
+2 dimension,SPI.DIM2.2.INDEX,4557,1800,1800,0,0,1.1102230246251565e-16
+2 dimension,SPI.DIM2.4.INDEX,4557,1716,1716,0,0,0.0
+2 dimension,SPI.DIM3.1.INDEX,4557,4515,4515,0,0,2.220446049250313e-16
+2 dimension,SPI.DIM3.2.INDEX,4557,4515,4515,0,0,2.220446049250313e-16
+2 dimension,SPI.DIM3.3.INDEX,4557,4300,4300,0,0,5.551115123125783e-17
+2 dimension,SPI.DIM3.4.INDEX,4557,4515,4515,0,0,9.71445146547012e-17
+2 dimension,SPI.DIM4.1.CEN.INDEX,4557,3990,3990,0,0,5.551115123125783e-17
+2 dimension,SPI.DIM4.1.SVY.INDEX,4557,3990,3990,0,0,1.1102230246251565e-16
+2 dimension,SPI.DIM4.2.INDEX,4557,4557,4557,0,0,0.0
+2 dimension,SPI.DIM4.3.INDEX,4557,1800,1800,0,0,1.1102230246251565e-16
+2 dimension,SPI.DIM5.1.INDEX,4557,4557,4557,0,0,0.0
+2 dimension,SPI.DIM5.2.INDEX,4557,1710,1710,0,0,0.0
+2 dimension,SPI.DIM5.5.INDEX,4557,4557,4557,0,0,0.0
+3 pillar,SPI.INDEX.PIL1,4557,4557,4557,0,0,0.0
+3 pillar,SPI.INDEX.PIL2,4557,1626,1626,0,0,1.4210854715202004e-14
+3 pillar,SPI.INDEX.PIL3,4557,4300,4300,0,0,1.4210854715202004e-14
+3 pillar,SPI.INDEX.PIL4,4557,1749,1749,0,0,2.842170943040401e-14
+3 pillar,SPI.INDEX.PIL5,4557,1710,1710,0,0,0.0
+4 overall,SPI.INDEX,4557,1613,1613,0,0,2.1316282072803006e-14

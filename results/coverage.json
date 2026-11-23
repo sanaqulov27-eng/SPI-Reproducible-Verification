@@ -1,0 +1,38 @@
+{
+ "SPI.INDEX.PIL1": {
+  "n": 4557,
+  "economies": 217,
+  "first_year": 2004,
+  "last_year": 2024
+ },
+ "SPI.INDEX.PIL2": {
+  "n": 1626,
+  "economies": 190,
+  "first_year": 2016,
+  "last_year": 2024
+ },
+ "SPI.INDEX.PIL3": {
+  "n": 4300,
+  "economies": 215,
+  "first_year": 2005,
+  "last_year": 2024
+ },
+ "SPI.INDEX.PIL4": {
+  "n": 1749,
+  "economies": 189,
+  "first_year": 2015,
+  "last_year": 2024
+ },
+ "SPI.INDEX.PIL5": {
+  "n": 1710,
+  "economies": 191,
+  "first_year": 2016,
+  "last_year": 2024
+ },
+ "SPI.INDEX": {
+  "n": 1613,
+  "economies": 188,
+  "first_year": 2016,
+  "last_year": 2024
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "cells_final_nonmissing_52": 171888,
+ "cells_carried_52": 0,
+ "cells_final_nonmissing_51": 171243,
+ "cells_carried_51": 0,
+ "share_carried_51": 0.0,
+ "share_carried_51_2016_2024": 0.0,
+ "by_pillar_2016_2024": {
+  "P1": {
+   "indicators": 5,
+   "final": 9765,
+   "carried": 0,
+   "share": 0.0
+  },
+  "P2": {
+   "indicators": 8,
+   "final": 13718,
+   "carried": 0,
+   "share": 0.0
+  },
+  "P3": {
+   "indicators": 16,
+   "final": 30960,
+   "carried": 0,
+   "share": 0.0
+  },
+  "P4": {
+   "indicators": 10,
+   "final": 17399,
+   "carried": 0,
+   "share": 0.0
+  },
+  "P5": {
+   "indicators": 12,
+   "final": 19837,
+   "carried": 0,
+   "share": 0.0
+  }
+ },
+ "idempotence_cells_changed_by_ffill": 0,
+ "interior_gaps_in_released_indicator_file": 0,
+ "overall_records": 1613,
+ "rows_without_overall": 2944,
+ "rows_without_overall_pre2016": 2604,
+ "rows_without_overall_2016plus": 340,
+ "missing_pillar_pattern_2016plus": {
+  "P2+P4+P5": 229,
+  "P2+P4": 84,
+  "P2+P3+P4+P5": 9,
+  "P3": 8,
+  "P4": 5,
+  "P2+P5": 4,
+  "P2+P3+P5": 1
+ },
+ "economies_never_overall": 29,
+ "economies_total": 217,
+ "economies_with_no_value_ever_by_pillar": {
+  "SPI.INDEX.PIL1": 0,
+  "SPI.INDEX.PIL2": 27,
+  "SPI.INDEX.PIL3": 2,
+  "SPI.INDEX.PIL4": 28,
+  "SPI.INDEX.PIL5": 26
+ },
+ "first_year_any_raw_value_by_pillar": {
+  "P1": 2004,
+  "P2": 2004,
+  "P3": 2004,
+  "P4": 2004,
+  "P5": 2004
+ },
+ "pre2016_rows": 2604,
+ "pre2016_nonmissing_by_pillar": {
+  "SPI.INDEX.PIL1": 2604,
+  "SPI.INDEX.PIL2": 0,
+  "SPI.INDEX.PIL3": 2365,
+  "SPI.INDEX.PIL4": 123,
+  "SPI.INDEX.PIL5": 0
+ },
+ "SPI.D3.NA_unique_values": [
+  0.0
+ ],
+ "geo_cells_affected": 165,
+ "geo_economies_affected": 43,
+ "geo_years_range": [
+  2015,
+  2024
+ ],
+ "geo_by_year": {
+  "2015": 2,
+  "2016": 14,
+  "2017": 12,
+  "2018": 20,
+  "2019": 20,
+  "2020": 21,
+  "2021": 21,
+  "2022": 21,
+  "2023": 21,
+  "2024": 13
+ },
+ "geo_rows_affected_2016plus": 163,
+ "geo_dim43_rows_changed": 165,
+ "geo_P4_abs_change_if_plain": {
+  "rows": 165,
+  "max": 12.85,
+  "mean_over_changed": 2.0543939393939397
+ },
+ "geo_overall_abs_change_if_plain": {
+  "rows_with_overall": 153,
+  "max": 2.57,
+  "mean": 0.37692810457516335
+ },
+ "geo_top_economies": {
+  "LKA": 9,
+  "DNK": 8,
+  "GMB": 8,
+  "PRT": 8,
+  "BEL": 7,
+  "HRV": 7,
+  "XKX": 7,
+  "SLE": 7,
+  "FRA": 6,
+  "ISL": 6
+ },
+ "rank_n": 188,
+ "rank_exact_ties": 0,
+ "rank_ties_rounded2": 12,
+ "rank_ties_rounded1": 63,
+ "UZB_rank": {
+  "score": 81.49083333333334,
+  "rank_min": 58,
+  "rank_dense": 58,
+  "rank_min_rounded2": 58,
+  "rank_min_rounded1": 57
+ },
+ "rank_changes_when_rounded2": 6,
+ "rank_changes_when_rounded1": 34,
+ "rank_max_shift_rounded2": 1,
+ "UZB_neighbours": [
+  {
+   "iso3c": "PER",
+   "SPI.INDEX": 81.9812,
+   "rank_min": 56
+  },
+  {
+   "iso3c": "RUS",
+   "SPI.INDEX": 81.5008,
+   "rank_min": 57
+  },
+  {
+   "iso3c": "UZB",
+   "SPI.INDEX": 81.4908,
+   "rank_min": 58
+  },
+  {
+   "iso3c": "ISL",
+   "SPI.INDEX": 81.4704,
+   "rank_min": 59
+  },
+  {
+   "iso3c": "SEN",
+   "SPI.INDEX": 81.4142,
+   "rank_min": 60
+  }
+ ]
+}
